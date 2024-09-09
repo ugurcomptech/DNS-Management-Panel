@@ -23,8 +23,8 @@ Bu proje, bir DNS sunucusunda DNS kayıtlarını yönetmek için bir web arayüz
 ## 1. Proje Dosyalarını İndirin
 
 ```
-git clone https://github.com/kullanici_adi/proje_adi.git
-cd proje_adi
+git clone https://github.com/ugurcomptech/DNS-Management-Panel.git
+cd DNS-Management-Panel
 ```
 
 ## 2. Yapılandırmaları Düzenleyin

@@ -41,6 +41,12 @@ Ayrıca, DNS kayıt dosyanızın yolunu index.php dosyasında ayarlayın:
 $file_path = '/etc/bind/zones/your_domain.db';
 ```
 
+Bu proje de DNS kayıtlarını silme işlemlerini Python üzerinden yapılmıştır. `delete_record.py` adlı dosyayı kontrol edebilirsiniz. Ayrıca sunucunuzda aşağıdaki komutu çalıştırınız.
+
+```
+touch /home/ubuntu/delete_record.py
+```
+
 
 
 ## Önemli

@@ -1,5 +1,8 @@
 # DNS YÖNETİM PANELİ
 
+![image](https://github.com/user-attachments/assets/fba3c627-ee95-4351-b9a0-58612b9bfee0)
+
+
 Bu proje, bir DNS sunucusunda DNS kayıtlarını yönetmek için bir web arayüzü sağlar. Kullanıcılar, `A`, `MX`, `CNAME`, `NS`, ve `TXT` kayıtlarını listeleyebilir, ekleyebilir ve silebilir. Bu sistem, kullanıcıların DNS kayıtlarını kolayca yönetmelerine olanak tanır.
 
 
